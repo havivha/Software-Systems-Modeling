@@ -102,7 +102,7 @@
           </UML:Association.connection>
         </UML:Association>
         <UML:UseCase xmi.id = '10-0-0-5-19811b8e:14c3d19f84d:-8000:0000000000000971'
-          name = 'Pruchase item' isSpecification = 'false' isRoot = 'false' isLeaf = 'false'
+          name = 'Purchase item' isSpecification = 'false' isRoot = 'false' isLeaf = 'false'
           isAbstract = 'false'>
           <UML:ModelElement.clientDependency>
             <UML:Dependency xmi.idref = '10-0-0-5-19811b8e:14c3d19f84d:-8000:000000000000097A'/>
